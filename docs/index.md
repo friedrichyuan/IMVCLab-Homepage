@@ -16,7 +16,7 @@ hide:
     - *Scaling Up Occupancy-centric Driving Scene Generation: Dataset and Method* [[Link]](https://arxiv.org/abs/2510.22973)
     - *OccScene: Semantic Occupancy-based Cross-task Mutual Learning for 3D Scene Generation* [[Link]](https://ieeexplore.ieee.org/document/11139101)
 
-- **2026.01** Four papers accepted to **CVPR 2026 2025**:
+- **2026.01** Four papers accepted to **CVPR 2026**:
     - *ANTS: Adaptive Negative Textual Space Shaping for OOD Detection via Test-Time MLLM Understanding and Reasoning* **(Oral)** [[Link]](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhu_ANTS_Adaptive_Negative_Textual_Space_Shaping_for_OOD_Detection_via_CVPR_2026_paper.pdf)
     - *SceneScribe-1M: A Large-Scale Video Dataset with Comprehensive Geometric and Semantic Annotations* **(Highlight)** [[Link]](https://arxiv.org/abs/2601.18692)
     - *Goal-Driven Reward by Video Diffusion Models for Reinforcement Learning* [[Link]](https://arxiv.org/pdf/2512.00961)
@@ -26,7 +26,7 @@ hide:
     - *A Survey of Behavior Foundation Model: Next-Generation Whole-Body Control System of Humanoid Robots* [[Link]](https://arxiv.org/abs/2506.20487)
     - *Hierarchical Context Alignment with Disentangled Geometric and Temporal Modeling for Semantic Occupancy Prediction* [[Link]](https://arxiv.org/pdf/2412.08243)
 
-- **2025.10** We organized a workshop at ICCV 2025: The 1st International Workshop on Disentangled Representation Learning for Controllable Generation (DRL4Real). [[Link]](https://drl-for-real.github.io/DRL-for-Real/index.html)
+- **2025.10** We organized a workshop at **ICCV 2025**: The 1st International Workshop on Disentangled Representation Learning for Controllable Generation (DRL4Real). [[Link]](https://drl-for-real.github.io/DRL-for-Real/index.html)
 
 - **2025.09** Two papers accepted to **NeurIPS 2025**:
     - *SoFar: Language-Grounded Orientation Bridges Spatial Reasoning and Object Manipulation* (**Spotlight**) [[Link]](https://arxiv.org/abs/2502.13143)
