@@ -10,6 +10,17 @@ hide:
 <br>
 
 # **News**
+- **2026.05** Congratulations to Junyan Lin, Jinming Liu, Shengyang Zhao, and Xin Jin for being awarded the **2026 IEEE MSA-TC Best Paper Award**.
+
+- **2026.04** Two papers accepted to **IEEE TPAMI**:
+    - *Scaling Up Occupancy-centric Driving Scene Generation: Dataset and Method* [[Link]](https://arxiv.org/abs/2510.22973)
+    - *OccScene: Semantic Occupancy-based Cross-task Mutual Learning for 3D Scene Generation* [[Link]](https://ieeexplore.ieee.org/document/11139101)
+
+- **2026.01** Four papers accepted to **CVPR 2026 2025**:
+    - *ANTS: Adaptive Negative Textual Space Shaping for OOD Detection via Test-Time MLLM Understanding and Reasoning* **(Oral)** [[Link]](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhu_ANTS_Adaptive_Negative_Textual_Space_Shaping_for_OOD_Detection_via_CVPR_2026_paper.pdf)
+    - *SceneScribe-1M: A Large-Scale Video Dataset with Comprehensive Geometric and Semantic Annotations* **(Highlight)** [[Link]](https://arxiv.org/abs/2601.18692)
+    - *Goal-Driven Reward by Video Diffusion Models for Reinforcement Learning* [[Link]](https://arxiv.org/pdf/2512.00961)
+    - *PvP: Data-Efficient Humanoid Robot Learning with Proprioceptive-Privileged Contrastive Representations* [[Link]](https://arxiv.org/pdf/2512.13093)
 
 - **2025.12** Two papers accepted to **IEEE TPAMI**:
     - *A Survey of Behavior Foundation Model: Next-Generation Whole-Body Control System of Humanoid Robots* [[Link]](https://arxiv.org/abs/2506.20487)

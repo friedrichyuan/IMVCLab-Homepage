@@ -128,7 +128,7 @@
 ## **Students**
 
 <div class="member-cards">
-    <div class="member-card">
+    <!-- <div class="member-card">
         <div class="member-card-avatar">
             <img src="../assets/images/members/pgs/liang_xu.jpg" alt="Profile Picture">
         </div>
@@ -149,8 +149,8 @@
             <div class="keywords">Reinforcement Learning, Humanoid Robotics, Embodied Intelligence, and Computer Vision</div>
             <div>Mail: <a href="mailto:mingqi.yuan@connect.polyu.hk">mingqi.yuan@connect.polyu.hk</a></div>
         </div>
-    </div>
-    <div class="member-card">
+    </div> -->
+    <!-- <div class="member-card">
         <div class="member-card-avatar">
             <img src="../assets/images/members/pgs/qi_wang.jpg" alt="Profile Picture">
         </div>
@@ -160,7 +160,7 @@
             <div class="keywords">Reinforcement Learning, World Models, Embodied Intelligence</div>
             <div>Mail: <a href="mailto:qiwang068@gmail.com">qiwang068@gmail.com</a></div>
         </div>
-    </div>
+    </div> -->
     <div class="member-card">
         <div class="member-card-avatar">
             <img src="../assets/images/members/pgs/wenjie_zhu.jpg" alt="Profile Picture" class="zoom-in-wenjie">
@@ -172,7 +172,7 @@
             <div>Mail: <a href="mailto:22040319r@connect.polyu.hk">22040319r@connect.polyu.hk</a></div>
         </div>
     </div>
-    <div class="member-card">
+    <!-- <div class="member-card">
         <div class="member-card-avatar">
             <img src="../assets/images/members/pgs/wenyao_zhang.jpeg" alt="Profile Picture" class="zoom-up">
         </div>
@@ -182,7 +182,7 @@
             <div class="keywords">Embodied AI, World Model, Multimodal Large Language Models</div>
             <div>Mail: <a href="mailto:wyzzhang@gmail.com">wyzzhang@gmail.com</a></div>
         </div>
-    </div>
+    </div> -->
     <div class="member-card">
         <div class="member-card-avatar">
             <img src="../assets/images/members/pgs/wang_zhicheng.jpeg" alt="Profile Picture">
@@ -443,6 +443,11 @@
 </div>
 
 ## **Alumni**
+
+- Liang Xu, PhD student, 2022-2026. *Current Job: Researcher at Beijing Zhongguancun Academy.*
+- Mingqi Yuan, PhD student, 2022-2026. *Current Job: Post-doctoral Fellow at The University of Hong Kong.*
+- Qi Wang, PhD student, 2022-2026. *Current Job: Post-doctoral Fellow at Chinese Academy of Sciences.*
+- Wenyao Zhang, PhD student, 2022-2026. *Current Job: Researcher at Tencent Robotics X Lab.*
 
 
 <script>

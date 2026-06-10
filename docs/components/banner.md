@@ -15,6 +15,20 @@
   </div>
 
   <div class="banner-slide">
+    <img class="banner-image" src="assets/images/banner/cvpr26.jpg" alt="Lab Members at CVPR2026">
+    <div class="banner-overlay"></div>
+    <div class="banner-bottom-blur">
+      <div class="caption-container">
+        <a href="" target="_blank" class="banner-caption-link">
+        <div class="banner-caption">
+          Lab Members at CVPR2026
+        </div>
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <div class="banner-slide">
     <img class="banner-image" src="assets/images/banner/uav2.jpg" alt="Prof. Zeng's Address at The 7th CCSAT">
     <div class="banner-overlay"></div>
     <div class="banner-bottom-blur">
@@ -29,14 +43,14 @@
   </div>
 
   <div class="banner-slide">
-    <img class="banner-image" src="assets/images/banner/uav3.jpg" alt="IMVL Members at ICCV2025">
+    <img class="banner-image" src="assets/images/banner/uav3.jpg" alt="Lab Members at ICCV2025">
     <!-- 覆盖层 -->
     <div class="banner-overlay"></div>
     <!-- 底部高斯模糊区域 - 现在包含标题 -->
     <div class="banner-bottom-blur">
       <div class="caption-container">
         <div class="banner-caption">
-          IMVL Members at ICCV2025
+          Lab Members at ICCV2025
         </div>
       </div>
     </div>

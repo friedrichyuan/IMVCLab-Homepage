@@ -1,6 +1,6 @@
-site_name: "Intelligent Media and Vision Laboratory"
-site_url: https://eitech.cuhk.edu.cn
-copyright: "Copyright &copy; IMVL 2025 All rights reserved. <span style='color: #161616;'>Designed by YUAN Mingqi.</span>"
+site_name: "Intelligent Media and Visual Computing Laboratory"
+site_url: https://eit-imvclab.net 
+copyright: "Copyright &copy; IMVL 2026 All rights reserved. <span style='color: #161616;'>Designed by YUAN Mingqi.</span>"
 theme:
   name: material
   custom_dir: docs/overrides/
@@ -36,7 +36,7 @@ extra_css:
 extra_javascript:
   - assets/stylesheets/extra.js
   - javascripts/mathjax.js
-  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  # - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
   - assets/javascripts/banner.js
 
@@ -80,7 +80,6 @@ nav:
     # - "2023": news/2023.md
     # - "2022": news/2022.md
   - Research: research.md
-  - Publications: pubs.md
   - Members: members.md
   - About: contact.md
 
