@@ -98,7 +98,7 @@
         <div class="member-card-info">
             <div class="name"><span class="lang-en">Hao Zheng</span><span class="lang-zh">郑豪</span></div>
             <div class="title"><span class="lang-en">Postdoctoral Researcher</span><span class="lang-zh">博士后研究员</span></div>
-            <div class="keywords">Disentangled Representation Learning, Reinforcement Learning, Operations and Supply Chain Management, Marketing Analytics</div>
+            <div class="keywords">Computer Vision, Disentangled Representation Learning, Reinforcement Learning, Management Science</div>
             <div>Mail: <a href="mailto:hzheng@eitech.edu.cn">hzheng@eitech.edu.cn</a></div>
         </div>
     </div>
