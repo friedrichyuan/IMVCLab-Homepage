@@ -16,7 +16,7 @@
         <div class="member-card-info">
             <div class="name"><a href="https://www.eitech.edu.cn/2025/0721/c287a707/page.htm" target="_blank"><span class="lang-en">Wenjun Zeng</span><span class="lang-zh">曾文军</span></a></div>
             <div class="title"><span class="lang-en">Vice President, IEEE Fellow, Fellow of CAE</span><span class="lang-zh">实验室主任</span></div>
-            <div class="keywords">Computer Vision, Multimedia, Embodied AI, Spatial Intelligence</div>
+            <div class="keywords">Artificial Intelligence, Computer Vision, Digital Twin, Social Network/Media Analysis, Multimedia Communications & Networking, and Content/Network Security</div>
             <div>Mail: <a href="mailto:wzeng-vp@eitech.edu.cn">wzeng-vp@eitech.edu.cn</a></div>
         </div>
     </div>
