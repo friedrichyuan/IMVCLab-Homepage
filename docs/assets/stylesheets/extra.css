@@ -197,6 +197,14 @@ border-left: 4px solid rgba(230, 230, 230);
 margin-bottom: 80px;
 }
 
+/* Member card names stay black even when wrapped in <a> (override link accent) */
+.md-typeset .member-card .name,
+.md-typeset .member-card .name a,
+.md-typeset .member-card .name a:hover,
+.md-typeset .member-card .name a:focus {
+  color: #000 !important;
+}
+
 /* ========== Member Cards - 桌面端（两列水平布局） ========== */
 @media screen and (min-width: 769px) {
   .md-typeset .member-cards {

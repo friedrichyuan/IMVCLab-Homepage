@@ -38,6 +38,17 @@
 <div class="member-cards">
     <div class="member-card">
         <div class="member-card-avatar">
+            <img src="../assets/images/members/pgs/lixiangyu.jpeg" alt="Profile Picture">
+        </div>
+        <div class="member-card-info">
+            <div class="name"><span class="lang-en">Xiangyu Li</span><span class="lang-zh">李翔宇</span></div>
+            <div class="title"><span class="lang-en">Researcher</span><span class="lang-zh">研究员</span></div>
+            <div class="keywords">Space-Air-Ground Integrated Networks, Non-terrestrial Networks, Satellite Communication</div>
+            <div>Mail: <a href="mailto:xli@idt.eitech.edu.cn">xli@idt.eitech.edu.cn</a></div>
+        </div>
+    </div>
+    <div class="member-card">
+        <div class="member-card-avatar">
             <img src="../assets/images/members/pgs/shengyang_zhao.jpg" alt="Profile Picture">
         </div>
         <div class="member-card-info">
@@ -45,17 +56,6 @@
             <div class="title"><span class="lang-en">Associate Researcher</span><span class="lang-zh">副研究员</span></div>
             <div class="keywords">Multimedia, Coding & Quality Assessment, Spatial Intelligence and Autonomous Driving</div>
             <div>Mail: <a href="mailto:szhao@idt.eitech.edu.cn">szhao@idt.eitech.edu.cn</a></div>
-        </div>
-    </div>
-    <div class="member-card">
-        <div class="member-card-avatar">
-            <img src="../assets/images/members/pgs/lixiangyu.jpeg" alt="Profile Picture">
-        </div>
-        <div class="member-card-info">
-            <div class="name"><span class="lang-en">Xiangyu Li</span><span class="lang-zh">李翔宇</span></div>
-            <div class="title"><span class="lang-en">Associate Researcher</span><span class="lang-zh">副研究员</span></div>
-            <div class="keywords">Space-Air-Ground Integrated Networks, Non-terrestrial Networks, Satellite Communication</div>
-            <div>Mail: <a href="mailto:xli@idt.eitech.edu.cn">xli@idt.eitech.edu.cn</a></div>
         </div>
     </div>
     <div class="member-card">
@@ -82,6 +82,16 @@
     </div>
     <div class="member-card">
         <div class="member-card-avatar">
+            <img src="../assets/images/members/pgs/wang_wei.jpg" alt="Profile Picture">
+        </div>
+        <div class="member-card-info">
+            <div class="name"><span class="lang-en">Wei Wang</span><span class="lang-zh">王伟</span></div>
+            <div class="title"><span class="lang-en">Associate Researcher</span><span class="lang-zh">副研究员</span></div>
+            <div>Mail: <a href="mailto:wwang@idt.eitech.edu.cn">wwang@idt.eitech.edu.cn</a></div>
+        </div>
+    </div>
+    <div class="member-card">
+        <div class="member-card-avatar">
             <img src="../assets/images/members/pgs/shaoyang_hua.jpg" alt="Profile Picture" class="from-top-10px">
         </div>
         <div class="member-card-info">
@@ -100,6 +110,26 @@
             <div class="title"><span class="lang-en">Postdoctoral Researcher</span><span class="lang-zh">博士后研究员</span></div>
             <div class="keywords">Computer Vision, Disentangled Representation Learning, Reinforcement Learning, Management Science</div>
             <div>Mail: <a href="mailto:hzheng@eitech.edu.cn">hzheng@eitech.edu.cn</a></div>
+        </div>
+    </div>
+    <div class="member-card">
+        <div class="member-card-avatar">
+            <img src="../assets/images/members/pgs/yajing_zhai.jpg" alt="Profile Picture">
+        </div>
+        <div class="member-card-info">
+            <div class="name"><span class="lang-en">Yajing Zhai</span><span class="lang-zh">翟亚静</span></div>
+            <div class="title"><span class="lang-en">Postdoctoral Researcher</span><span class="lang-zh">博士后研究员</span></div>
+            <div>Mail: <a href="mailto:yzhai@eitech.edu.cn">yzhai@eitech.edu.cn</a></div>
+        </div>
+    </div>
+    <div class="member-card">
+        <div class="member-card-avatar">
+            <img src="../assets/images/members/pgs/longqian_zhao.jpg" alt="Profile Picture">
+        </div>
+        <div class="member-card-info">
+            <div class="name"><span class="lang-en">Longqian Zhao</span><span class="lang-zh">赵龙乾</span></div>
+            <div class="title"><span class="lang-en">Postdoctoral Researcher</span><span class="lang-zh">博士后研究员</span></div>
+            <div>Mail: <a href="mailto:lqzhao@idt.eitech.edu.cn">lqzhao@idt.eitech.edu.cn</a></div>
         </div>
     </div>
     <div class="member-card">
